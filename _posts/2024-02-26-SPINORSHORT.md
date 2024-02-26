@@ -2,7 +2,7 @@
 title: (Short) Spinor
 author: cj
 date: 2024-02-26 23:50:00 +0900
-categories: [shorts]
+categories: [shorts]
 tags:
 pin: true
 math: true
