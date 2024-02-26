@@ -238,6 +238,7 @@ $$
 이제 real vector space로의 representation을 생각해보자. 이를 처음부터 구성하기보다는, 이미 구성해놓은 complex vector space로의 representation에서 'real part'를 취하는 것이 더욱 효율적이다. 그러기 위해서는,  주어진 representation의 **real structure**의 개념을 정의해야 한다.
 
 **Definition 4.1.** complex vector space $V$의 real structure는 linear automorphism $\phi:V\rightarrow V$ such that
+
 1) $\phi(\lambda v)=\overline{\lambda}v$
 2) $\phi^2=\mathrm{id}_V$
 
