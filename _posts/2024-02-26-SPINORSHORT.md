@@ -9,6 +9,7 @@ math: true
 mermaid: false
 ---
 
+보통 fermion을 표현하는 수학적 도구로서 처음 접하게 되는 spinor는 그 근원을 단순히 생각해서는 알아내기 어렵다. 이 글에서는 기하학적 object들의 rotation과 reflection을 자연스럽게 나타내는 Clifford algebra에서 시작해 spin group을 소개하고, 그 group의 representation으로 spinor에 대해 조금 더 명확한 정의를 내린다. 또한 가장 기본적인 representation인 Dirac, Weyl, 그리고 Majorana spinor을 구성하는 방법에 대해 짧게 소개한다.
 ## Clifford Algebra
 
 Minkowski spacetime $\mathbb{R}^{1,\mathsf{D}-1}$에 대해 정의된 Clifford algebra (혹은 geometric algebra)는 러프하게 말해,  $\mathbb{R}^{1,\mathsf{D}-1}$의 subspace들을 그 대수의 '원소'로서 가지며 refelction과 rotation (include boosts) 같은 변환들을 자연스럽게 표현할 수 있는 대수 구조이다. 이를테면, 13차원 공간 속 7차원 초부피의 $(x^3,x^{11})$-plane에 대한 회전 따위를 깔끔하게 표현할 수 있다.
