@@ -3,7 +3,7 @@ title: (Short) Spinor
 author: cj
 date: 2024-02-26 23:50:00 +0900
 categories: [shorts]
-tags:
+tags: [Spin geometry, Representation theory]
 pin: true
 math: true
 mermaid: false
