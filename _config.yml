@@ -16,7 +16,7 @@ timezone: Asia/Seoul
 
 title: 4urora # the main title
 
-tagline: Quantum, Geometry, and Universe # it will display as the sub-title
+tagline: Study Notes # it will display as the sub-title
 
 description: >- # used by seo meta and the atom feed
   Physics Blog Of Chaewon Jeong.
@@ -26,7 +26,7 @@ description: >- # used by seo meta and the atom feed
 url: "https://starshard04.github.io"
 
 github:
-  username: starshard04 # change to your github username
+  username: Chaewon # change to your github username
 
 social:
   # Change to your full name.
